@@ -1,0 +1,4 @@
+inurl:.php?category=”
+inurl:.php?choice=”
+inurl:.php?class=”
+inurl:.php?club_id=”
